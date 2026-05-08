@@ -1,1 +1,8 @@
+{
+  "name": "openclaw-delegate-skill",
+  "version": "1.0.0",
+  "description": "Delegate tasks to OpenClaw via CLI",
+  "category": "agent",
+  "main": "index.js"
+}
 
